@@ -1,0 +1,1 @@
+Jenkins and GitHub are two powerful tools on their own, but what about using them together? In this blog, learn about the benefits of a Jenkins integration with GitHub and how to set up the integration on your own for GitHub Jenkins harmony.
